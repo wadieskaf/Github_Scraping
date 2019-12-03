@@ -1,0 +1,324 @@
+Name,Link,Short Description,Programming Language,List of tags
+opensource.guide,https://github.com/github/opensource.guide,📚 Community guides for open source creators,JavaScript,"open-source, documentation, tutorial, oss, best-practices"
+explore,https://github.com/github/explore,Community-curated topic and collection pages on GitHub,Ruby,"topics, collections, community-driven"
+linguist,https://github.com/github/linguist,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",Ruby,"syntax-highlighting, language-grammars, language-statistics, linguistic"
+gemoji,https://github.com/github/gemoji,Emoji images and names.,Ruby,"ruby, emoji, unicode, rubygem"
+hoosegow,https://github.com/github/hoosegow,Ephemeral Docker jails for running untrusted Ruby code,Ruby,No tags provided
+cvelist,https://github.com/github/cvelist,GitHub Fork of cvelist. For use in GitHub's CVE Submission process.,Not given,No tags provided
+gitignore,https://github.com/github/gitignore,A collection of useful .gitignore templates,Not given,"gitignore, git"
+actionview-component,https://github.com/github/actionview-component,View components for Rails,Ruby,No tags provided
+personal-website,https://github.com/github/personal-website,Code that'll help you kickstart a personal website that showcases your work as a software developer.,HTML,No tags provided
+dmca,https://github.com/github/dmca,Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at,Not given,dmca
+vscode-codeql,https://github.com/github/vscode-codeql,An extension for Visual Studio Code that adds rich language support for CodeQL,TypeScript,"vscode, vscode-extension, codeql"
+eslint-plugin-github,https://github.com/github/eslint-plugin-github,An opinionated collection of ESLint shared configs and rules used by GitHub.,JavaScript,"javascript, eslint, eslintplugin"
+backup-utils,https://github.com/github/backup-utils,GitHub Enterprise Backup Utilities,Shell,"github-enterprise, backups"
+hub,https://github.com/github/hub,A command-line tool that makes git easier to use with GitHub.,Go,"git, go, homebrew, github-api, pull-request"
+platform-samples,https://github.com/github/platform-samples,A public place for all platform sample projects.,Shell,"javascript, ruby, graphql, sample, pre-receive-hooks, hooks, platform"
+homebrew-bootstrap,https://github.com/github/homebrew-bootstrap,A series of helper scripts to reduce duplication across `script/bootstrap`s.,Ruby,No tags provided
+opensourcefriday,https://github.com/github/opensourcefriday,🚲 Contribute to the open source community every Friday,Ruby,No tags provided
+ruby,https://github.com/github/ruby,The Ruby Programming Language,Ruby,No tags provided
+homebrew-gh,https://github.com/github/homebrew-gh,Homebrew tap for GitHub CLI,Ruby,"cli, homebrew-tap"
+actions-cheat-sheet,https://github.com/github/actions-cheat-sheet,A cheat sheet for GitHub Actions,HTML,No tags provided
+codeql-go,https://github.com/github/codeql-go,The CodeQL extractor and libraries for Go.,Go,No tags provided
+graphql-client,https://github.com/github/graphql-client,"A Ruby library for declaring, composing and executing GraphQL queries",Ruby,"ruby, graphql-client, graphql"
+octodns,https://github.com/github/octodns,Tools for managing DNS across multiple providers,Python,"dns, workflow, infrastructure-as-code"
+hubot-pager-me,https://github.com/github/hubot-pager-me,PagerDuty integration for Hubot,CoffeeScript,No tags provided
+auto-check-element,https://github.com/github/auto-check-element,An input element that validates its value with a server endpoint.,JavaScript,"web-components, custom-elements"
+training-kit,https://github.com/github/training-kit,Open source cheat sheets for Git and GitHub,HTML,"git, training, cheatsheet, fieldservices, professionalservices"
+site-policy,https://github.com/github/site-policy,"Collaborative development on GitHub's site policies, procedures, and guidelines",Not given,"law, policy, privacy-policy, terms-of-service"
+learning-lab-components,https://github.com/github/learning-lab-components,Open sourced components from GitHub Learning Lab,JavaScript,"learning-lab, github-learning-lab"
+VFSForGit,https://github.com/github/VFSForGit,GitHub development on VFSForGit [please fork upstream microsoft/VFSForGit repository instead of this one],C#,No tags provided
+orchestrator,https://github.com/github/orchestrator,MySQL replication topology management and HA,Go,"mysql, replication, high-availability, management-system"
+github-1,https://github.com/github/github-1,A higher-level wrapper around the Github API. Intended for the browser.,JavaScript,No tags provided
+deli,https://github.com/github/deli,No short description given,Haskell,"haskell, performance, dsl, modeling, performance-tuning, model-checking, performance-analysis"
+Spoon-Knife,https://github.com/github/Spoon-Knife,This repo is for demonstration purposes only.,HTML,No tags provided
+security-lab,https://github.com/github/security-lab,Resources related to GitHub Security Lab,C++,No tags provided
+CodeSearchNet,https://github.com/github/CodeSearchNet,"Datasets, tools, and benchmarks for representation learning of code.",Jupyter Notebook,"python, nlp, data-science, data, machine-learning, natural-language-processing, deep-learning"
+elastomer-client,https://github.com/github/elastomer-client,A library for interacting with Elasticsearch,Ruby,No tags provided
+gh-ost,https://github.com/github/gh-ost,GitHub's Online Schema Migrations for MySQL,Go,"mysql, schema-migrations"
+choosealicense.com,https://github.com/github/choosealicense.com,A site to provide non-judgmental guidance on choosing a license for your open source project,Ruby,"jekyll, open-source, licensing, law, open-source-licensing"
+codeql-cli-binaries,https://github.com/github/codeql-cli-binaries,Binaries for the CodeQL CLI,Not given,No tags provided
+vulcanizer,https://github.com/github/vulcanizer,GitHub's ops focused Elasticsearch library,Go,"go, elasticsearch, operations"
+pages-gem,https://github.com/github/pages-gem,A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages,Ruby,"github, ruby, jekyll, jekyll-plugin, ruby-gem, jekyll-theme, github-pages"
+semantic,https://github.com/github/semantic,"Parsing, analyzing, and comparing source code across many languages",Haskell,No tags provided
+custom-element-boilerplate,https://github.com/github/custom-element-boilerplate,Boilerplate for creating a custom element.,JavaScript,"web-components, custom-elements"
+ssh_data,https://github.com/github/ssh_data,Ruby library for parsing SSH public keys and certificates,Ruby,No tags provided
+enable-security-alerts-sample,https://github.com/github/enable-security-alerts-sample,This repository contains a sample script which can be used to enable security vulnerability alerts in all of the repositories in a given organization.,JavaScript,No tags provided
+time-elements,https://github.com/github/time-elements,Web component extensions to the standard <time> element.,JavaScript,"localization, web-components, timezone, custom-elements"
+include-fragment-element,https://github.com/github/include-fragment-element,A client-side includes tag.,JavaScript,"web-components, custom-elements"
+auto-complete-element,https://github.com/github/auto-complete-element,Auto-complete input values from server search results.,JavaScript,"web-components, custom-elements"
+details-menu-element,https://github.com/github/details-menu-element,A menu opened with <details>.,JavaScript,"web-components, custom-elements"
+webauthn-json,https://github.com/github/webauthn-json,🔏 A WebAuthn API wrapper that translates to/from pure JSON using base64url.,TypeScript,"u2f, fido, webauthn, fido2, webauthn-library, security-key"
+markdown-toolbar-element,https://github.com/github/markdown-toolbar-element,Markdown formatting buttons for text inputs.,JavaScript,"markdown, web-components, custom-elements"
+SoftU2F,https://github.com/github/SoftU2F,Software U2F authenticator for macOS,Swift,"macos, fido-u2f, cryptography"
+details-dialog-element,https://github.com/github/details-dialog-element,A modal dialog that's opened with <details>.,JavaScript,"web-components, custom-elements"
+vscode-codeql-starter,https://github.com/github/vscode-codeql-starter,Starter workspace to use with the CodeQL extension for Visual Studio Code.,Not given,"vscode, vscode-extension, codeql"
+remote-input-element,https://github.com/github/remote-input-element,An input element that sends its value to a server endpoint and renders the response body.,JavaScript,"web-components, custom-elements"
+textarea-autosize,https://github.com/github/textarea-autosize,Autosizes textarea to size of it's contents.,JavaScript,decorator
+brubeck,https://github.com/github/brubeck,A Statsd-compatible metrics aggregator,C,No tags provided
+fetch,https://github.com/github/fetch,A window.fetch JavaScript polyfill.,JavaScript,"javascript, polyfill, fetch, promise"
+VisualStudio,https://github.com/github/VisualStudio,GitHub Extension for Visual Studio,C#,"github, git, c-sharp, visual-studio"
+resque,https://github.com/github/resque,Used by Enterprise! Resque is a Redis-backed Ruby library for controlling background jobs.,Ruby,No tags provided
+glb-director,https://github.com/github/glb-director,GitHub Load Balancer Director and supporting tooling.,C,No tags provided
+licensed,https://github.com/github/licensed,A Ruby gem to cache and verify the licenses of dependencies,Ruby,"licensing, open-source-licensing, dependencies, license-management"
+.github,https://github.com/github/.github,Community health files for the @github organization,Not given,No tags provided
+gov-takedowns,https://github.com/github/gov-takedowns,Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.,Not given,No tags provided
+clipboard-copy-element,https://github.com/github/clipboard-copy-element,Copy element text content or input values to the clipboard.,JavaScript,"web-components, custom-elements"
+query-selector,https://github.com/github/query-selector,"Query the document tree by selector, filtering by element type.",JavaScript,"flow, dom"
+braintree-encryption,https://github.com/github/braintree-encryption,Javascript Library for Client-side Encryption with Braintree,JavaScript,No tags provided
+google-analytics,https://github.com/github/google-analytics,No short description given,JavaScript,No tags provided
+janky,https://github.com/github/janky,Continuous integration server built on top of Jenkins and Hubot,Ruby,"ruby, jenkins, hubot-script"
+session-resume,https://github.com/github/session-resume,Annotate fields to be persisted on navigation away from the current page,JavaScript,decorator
+paste-markdown,https://github.com/github/paste-markdown,Paste spreadsheet cells as a Markdown table.,JavaScript,"markdown, clipboard"
+mini-throttle,https://github.com/github/mini-throttle,A small JavaScript Throttle/Debounce implementation,JavaScript,"utility, throttle, debounce"
+combobox-nav,https://github.com/github/combobox-nav,Attach combobox navigation behavior to <input> or <textarea>.,JavaScript,"autocomplete, decorator, combobox"
+remote-form,https://github.com/github/remote-form,Submit forms via AJAX with ease,JavaScript,"ajax, form, decorator, microlibrary"
+quote-selection,https://github.com/github/quote-selection,Install a shortcut to append selected text to a <textarea> as a Markdown quote.,JavaScript,"markdown, decorator"
+tab-container-element,https://github.com/github/tab-container-element,An accessible tab container element with keyboard support.,JavaScript,"web-components, custom-elements"
+image-crop-element,https://github.com/github/image-crop-element,"A custom element for cropping a square image. Returns x, y, width, and height.",JavaScript,"web-components, custom-elements, image-cropper, image-crop"
+task-lists-element,https://github.com/github/task-lists-element,Drag and drop task list items.,JavaScript,"web-components, custom-elements"
+text-expander-element,https://github.com/github/text-expander-element,Activates a suggestion menu to expand text snippets as you type.,JavaScript,"web-components, custom-elements"
+g-emoji-element,https://github.com/github/g-emoji-element,Backports native emoji characters to browsers that don't support them by replacing the characters with fallback images.,JavaScript,"emoji, web-components, custom-elements"
+chatops-controller,https://github.com/github/chatops-controller,A rails plugin to make creating chatops easy,Ruby,"chatops, chatops-rpc"
+government.github.com,https://github.com/github/government.github.com,"Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations",HTML,"government, open-government, stories"
+loaner_automation,https://github.com/github/loaner_automation,Loaner automation project for GitHub,Python,No tags provided
+markup,https://github.com/github/markup,Determines which markup library to use to render a content file (e.g. README) on GitHub,Ruby,readme
+octocatalog-diff,https://github.com/github/octocatalog-diff,"Compile Puppet catalogs from 2 branches, versions, etc., and compare them",Ruby,puppet
+incubator-airflow,https://github.com/github/incubator-airflow,Apache Airflow (Incubating),Python,No tags provided
+scientist,https://github.com/github/scientist,🔬 A Ruby library for carefully refactoring critical paths.,Ruby,"refactoring, ruby, scientist, rubygem"
+welcome-to-github,https://github.com/github/welcome-to-github,No short description given,HTML,No tags provided
+freno,https://github.com/github/freno,"freno: cooperative, highly available throttler service",Go,"mysql, replication, throttle, high-availability"
+deploy-nodejs,https://github.com/github/deploy-nodejs,GitHub Action to deploy a NodeJS app to AWS Serverless,Shell,No tags provided
+hotkey,https://github.com/github/hotkey,Trigger an action on an element with a keyboard shortcut.,JavaScript,"decorator, shortcuts"
+lightcrawler,https://github.com/github/lightcrawler,Crawl a website and run it through Google lighthouse,JavaScript,"crawler, chrome, google-lighthouse"
+email_reply_parser,https://github.com/github/email_reply_parser,Small library to parse plain text email content,Ruby,No tags provided
+babel-plugin-ensure-name-for-custom-elements,https://github.com/github/babel-plugin-ensure-name-for-custom-elements,"This plugin makes sure that your custom elements always have a name property, even after minifying.",JavaScript,"babel-plugin, custom-elements"
+ernicorn,https://github.com/github/ernicorn,Ruby BERTRPC server based on Unicorn,Ruby,No tags provided
+kube-service-exporter,https://github.com/github/kube-service-exporter,A Kubernetes controller to export LoadBalancer Services to Consul,Go,No tags provided
+game-off-2013,https://github.com/github/game-off-2013,No short description given,Not given,No tags provided
+ccql,https://github.com/github/ccql,Multi server MySQL client,Go,"mysql, client"
+welcome-to-github-and-desktop,https://github.com/github/welcome-to-github-and-desktop,No short description given,HTML,No tags provided
+check-all,https://github.com/github/check-all,Multiple checkbox selection helper.,JavaScript,decorator
+graphql-relay-walker,https://github.com/github/graphql-relay-walker,Walk the graph,Ruby,"ruby, graphql, relay"
+argo-ml,https://github.com/github/argo-ml,"Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios",Python,No tags provided
+welcome-to-github-and-pages,https://github.com/github/welcome-to-github-and-pages,No short description given,HTML,No tags provided
+rubocop-github,https://github.com/github/rubocop-github,Code style checking for GitHub Ruby repositories,Ruby,"ruby, rubocop"
+webcomponentsjs,https://github.com/github/webcomponentsjs,A suite of polyfills supporting the HTML Web Components specs,HTML,No tags provided
+banana_phone,https://github.com/github/banana_phone,BananaPhone is RPC for BananaPack,Ruby,No tags provided
+accessibilityjs,https://github.com/github/accessibilityjs,Client side accessibility error scanner.,JavaScript,accessibility
+form-data-entries,https://github.com/github/form-data-entries,FormData.entries ponyfill,JavaScript,"ponyfill, formdata"
+vitess-gh,https://github.com/github/vitess-gh,Vitess is a database clustering system for horizontal scaling of MySQL.,Go,No tags provided
+GitPad,https://github.com/github/GitPad,Notepad.exe as Git commit editor,C#,No tags provided
+skeema,https://github.com/github/skeema,Schema management CLI for MySQL,Go,No tags provided
+cmark-gfm,https://github.com/github/cmark-gfm,"GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C",C,No tags provided
+msysgit,https://github.com/github/msysgit,The version of msysGit that ships with GitHub for Windows,C,No tags provided
+tainted_hash,https://github.com/github/tainted_hash,No short description given,Ruby,"ruby, rails, hash, input-sanitization"
+freno-client,https://github.com/github/freno-client,"Ruby client and throttling library for freno, the throttler service",Ruby,"mysql, ruby, ruby-gem, high-availability, throttling, freno"
+orchestrator-agent,https://github.com/github/orchestrator-agent,MySQL replication topology manager - agent (daemon),Go,No tags provided
+github-ds,https://github.com/github/github-ds,A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection,Ruby,"mysql, ruby, rails, activerecord, sql, key-value"
+octobox,https://github.com/github/octobox,📮Untangle your GitHub Notifications,Ruby,No tags provided
+review-pull-requests-at-github-template,https://github.com/github/review-pull-requests-at-github-template,Template for GitHub's Reviewing Pull Requests Learning Lab course. Course ➡️,HTML,"template, learning-lab"
+babel-preset-github,https://github.com/github/babel-preset-github,GitHub.com's Babel configuration,JavaScript,"javascript, babel, configuration, babel-preset, transpiler"
+libprojfs,https://github.com/github/libprojfs,Linux projected filesystem library,C,"git, filesystems, fuse-filesystem, vfsforgit"
+git-sizer,https://github.com/github/git-sizer,"Compute various size metrics for a Git repository, flagging those that might cause problems",Go,"github, git, golang"
+github-graphql-relay-example,https://github.com/github/github-graphql-relay-example,Example Relay Modern app using GitHub's GraphQL API,JavaScript,No tags provided
+flit,https://github.com/github/flit,Twitch Twirp RPC implementation for Java,Java,No tags provided
+hubot-slack,https://github.com/github/hubot-slack,No short description given,CoffeeScript,No tags provided
+github-elements,https://github.com/github/github-elements,GitHub's Web Component collection.,Not given,"web-components, element-collection"
+saml-ldap-team-sync,https://github.com/github/saml-ldap-team-sync,Sync GitHub teams to groups in Active Directory when using SAML,Python,No tags provided
+proxysql,https://github.com/github/proxysql,High-performance MySQL proxy with a GPL license.,C++,No tags provided
+babel-plugin-transform-invariant-location,https://github.com/github/babel-plugin-transform-invariant-location,Babel plugin that rewrites invariant calls with their source location,JavaScript,"flow, babel-plugin"
+url-search-params,https://github.com/github/url-search-params,Simple polyfill for URLSearchParams standard,JavaScript,No tags provided
+darrrr,https://github.com/github/darrrr,An SDK for the delegated recovery specfication,Ruby,"ruby, rails, sinatra, cryptography, facebook, authentication, ruby-on-rails"
+smimesign,https://github.com/github/smimesign,An S/MIME signing utility for use with Git,Go,No tags provided
+eventlistener-polyfill,https://github.com/github/eventlistener-polyfill,Polyfills EventListener behaviours from IE11 onward,JavaScript,No tags provided
+balanced-employee-ip-agreement,https://github.com/github/balanced-employee-ip-agreement,"GitHub's employee IP agreement, open sourced and reusable",Not given,"law, policy"
+s3gof3r,https://github.com/github/s3gof3r,"Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r",Go,No tags provided
+pages-health-check,https://github.com/github/pages-health-check,Checks your GitHub Pages site for common DNS configuration issues,Ruby,No tags provided
+rollup.js,https://github.com/github/rollup.js,Next-generation ES module bundler,JavaScript,No tags provided
+gh-mysql-tools,https://github.com/github/gh-mysql-tools,General purpose MySQL tools by GitHub Engineering,Shell,No tags provided
+open-source-survey,https://github.com/github/open-source-survey,The Open Source Survey,Not given,"open-source, survey"
+statsd-ruby,https://github.com/github/statsd-ruby,A Ruby Statsd client.,Ruby,No tags provided
+webpack-config-github,https://github.com/github/webpack-config-github,An opinionated webpack config for GitHub apps.,JavaScript,No tags provided
+github-services,https://github.com/github/github-services,Legacy GitHub Services Integration,Ruby,No tags provided
+rundeck-chatops-plugin,https://github.com/github/rundeck-chatops-plugin,Rundeck workflow task plugin which executes a ChatOps RPC API call.,Java,No tags provided
+github-graphql-rails-example,https://github.com/github/github-graphql-rails-example,Example Rails app using GitHub's GraphQL API,Ruby,No tags provided
+puppet-consul_template,https://github.com/github/puppet-consul_template,A Puppet module to manage the config and jobs of Consul Template from Hashicorp,Puppet,No tags provided
+jekyll-commonmark-ghpages,https://github.com/github/jekyll-commonmark-ghpages,CommonMark generator for Jekyll used by GitHub Pages,Ruby,No tags provided
+OAuth-Ruby-Quickstart,https://github.com/github/OAuth-Ruby-Quickstart,Starter code and quickstart guide for a GitHub OAuth App in Ruby,HTML,No tags provided
+invisible-recaptcha-validator,https://github.com/github/invisible-recaptcha-validator,Simple Express Server for invisible reCaptcha server-side validation,JavaScript,No tags provided
+ghfw-build-extra,https://github.com/github/ghfw-build-extra,Build scripts and customizations for creating the Git Shell environment included in GitHub Desktop,Shell,No tags provided
+hubot-mysql-datastore,https://github.com/github/hubot-mysql-datastore,MySQL-backed datastore for use with Hubot,JavaScript,No tags provided
+testrepo,https://github.com/github/testrepo,DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT.,C,No tags provided
+ruby-gpgme,https://github.com/github/ruby-gpgme,a ruby interface to GnuPG Made Easy (GPGME).,Ruby,No tags provided
+gpgme,https://github.com/github/gpgme,GnuPG Made Easy,C,No tags provided
+scripts-to-rule-them-all,https://github.com/github/scripts-to-rule-them-all,Scripts to Rule Them All,Shell,No tags provided
+bert,https://github.com/github/bert,BERT (Binary ERlang Term) serialization library for Ruby.,Ruby,No tags provided
+user-select-contain-polyfill,https://github.com/github/user-select-contain-polyfill,Polyfills `user-select: contain` property value,JavaScript,No tags provided
+jenkins_api_client,https://github.com/github/jenkins_api_client,Ruby Client libraries for communicating with Jenkins Remote Access API,Ruby,No tags provided
+ansible-overlay,https://github.com/github/ansible-overlay,An overlay image of Ansible to do boot time dynamic configuration of stateless systems,Shell,No tags provided
+looker-slackbot,https://github.com/github/looker-slackbot,A super cool Slack bot for Looker!,CoffeeScript,No tags provided
+training-utils,https://github.com/github/training-utils,A series of Bash and ZShell scripts useful when teaching about git and GitHub,Ruby,No tags provided
+blakejs,https://github.com/github/blakejs,Pure Javascript implementation of the BLAKE2b and BLAKE2s hash functions,JavaScript,No tags provided
+replicate,https://github.com/github/replicate,Dump and load relational objects between Ruby environments.,Ruby,No tags provided
+multibinder,https://github.com/github/multibinder,multibinder is a tiny ruby server that makes writing zero-downtime-reload services simpler.,Shell,No tags provided
+presto,https://github.com/github/presto,Distributed SQL query engine for big data,Java,No tags provided
+omniauth,https://github.com/github/omniauth,OmniAuth is a flexible authentication system utilizing Rack middleware.,Ruby,No tags provided
+GITHUB-ENTERPRISE-LICENSE-AGREEMENT,https://github.com/github/GITHUB-ENTERPRISE-LICENSE-AGREEMENT,GITHUB LICENSE AGREEMENT: PLEASE SIGN IN ALL CAPS,Not given,No tags provided
+sdr-code-camp,https://github.com/github/sdr-code-camp,learn you some code!,HTML,No tags provided
+synsanity,https://github.com/github/synsanity,netfilter (iptables) target for high performance lockless SYN cookies for SYN flood mitigation,C,No tags provided
+reactnd-project-readable-starter,https://github.com/github/reactnd-project-readable-starter,Starting server code for ReactND Readable Project,JavaScript,No tags provided
+hubstep,https://github.com/github/hubstep,Standard LightStep tracing of GitHub Ruby apps,Ruby,No tags provided
+lit-html,https://github.com/github/lit-html,HTML template literals in JavaScript,TypeScript,No tags provided
+oauth2_proxy,https://github.com/github/oauth2_proxy,"A reverse proxy that provides authentication with Google, Github or other provider",Go,No tags provided
+lightstep-tracer-ruby,https://github.com/github/lightstep-tracer-ruby,The LightStep distributed tracing library for Ruby,Ruby,No tags provided
+linux,https://github.com/github/linux,Linux kernel source tree,C,No tags provided
+promise.rb,https://github.com/github/promise.rb,Promises/A+ for Ruby,Ruby,No tags provided
+d3,https://github.com/github/d3,"Bring data to life with SVG, Canvas and HTML. 📊📈🎉",JavaScript,No tags provided
+gh-ost-ci-env,https://github.com/github/gh-ost-ci-env,CI environment for gh-ost testing,Shell,No tags provided
+collectd-elasticsearch,https://github.com/github/collectd-elasticsearch,CollectD ElasticSearch plugin,Python,No tags provided
+wmail-user-scripts,https://github.com/github/wmail-user-scripts,No short description given,CSS,No tags provided
+version_sorter,https://github.com/github/version_sorter,Fast sorting of version numbers,C,No tags provided
+putty,https://github.com/github/putty,"mirror of git://git.tartarus.org/simon/putty.git, used for client testing",C,No tags provided
+nugget,https://github.com/github/nugget,http integration test service,Ruby,No tags provided
+rails,https://github.com/github/rails,Ruby on Rails + GitHub patches,Ruby,No tags provided
+mentorships,https://github.com/github/mentorships,GitHub Open Source Mentorships (deprecated),Not given,open-source
+practice,https://github.com/github/practice,No short description given,Not given,No tags provided
+docker-awscli,https://github.com/github/docker-awscli,Another aws cli for hacking,Shell,No tags provided
+graphql-batch,https://github.com/github/graphql-batch,A query batching executor for the graphql gem,Ruby,No tags provided
+babel-plugin-transform-custom-element-classes,https://github.com/github/babel-plugin-transform-custom-element-classes,Compile ES6 HTMLElement class extensions to ES5,JavaScript,No tags provided
+template,https://github.com/github/template,Minimal polyfill for <template>,HTML,No tags provided
+plax,https://github.com/github/plax,JQuery powered parallaxing,JavaScript,No tags provided
+refined-github,https://github.com/github/refined-github,Browser extension that simplifies the GitHub interface and adds useful features,JavaScript,No tags provided
+objective-c-style-guide,https://github.com/github/objective-c-style-guide,**Archived** Style guide & coding conventions for Objective-C projects,Not given,No tags provided
+swift-style-guide,https://github.com/github/swift-style-guide,**Archived** Style guide & coding conventions for Swift projects,Not given,No tags provided
+fake_braintree,https://github.com/github/fake_braintree,A Braintree so fake that you can avoid hitting Braintree servers in tests.,Ruby,No tags provided
+developer.github.com,https://github.com/github/developer.github.com,GitHub Developer site,Ruby,No tags provided
+octofacts,https://github.com/github/octofacts,Automate creation and maintenance of complete fact sets for rspec-puppet tests,Ruby,"puppet, rspec-puppet"
+snakebite,https://github.com/github/snakebite,A pure python HDFS client,Python,No tags provided
+puppetlabs-apt,https://github.com/github/puppetlabs-apt,Puppet module to help manage Apt,Ruby,No tags provided
+sqoop,https://github.com/github/sqoop,Mirror of Apache Sqoop,Java,No tags provided
+pages-cucumber-fixture,https://github.com/github/pages-cucumber-fixture,Some fixtures for pages tests,Not given,No tags provided
+restricted-input,https://github.com/github/restricted-input,Restrict <input>s to certain valid characters (e.g. formatting phone or card numbers),JavaScript,No tags provided
+browser-detection,https://github.com/github/browser-detection,A utility for detecting browsers in Braintree libs.,JavaScript,No tags provided
+game-off-2016,https://github.com/github/game-off-2016,GitHub's month-long game jam 🎮 November 2016,Not given,No tags provided
+albino,https://github.com/github/albino,Ruby wrapper for the Pygments syntax highlighter.,Ruby,No tags provided
+debug-repo,https://github.com/github/debug-repo,This is a debug repo for github-debug.com,JavaScript,No tags provided
+hubot-scripts,https://github.com/github/hubot-scripts,"DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",CoffeeScript,"coffeescript, hubot-script"
+serialized_attributes,https://github.com/github/serialized_attributes,UNMAINTAINED - kind of a bridge between using AR and a full blown schema-free db,Ruby,No tags provided
+octokit.py,https://github.com/github/octokit.py,GitHub API client for Python,Python,No tags provided
+github-ldap,https://github.com/github/github-ldap,LDAP client for humans. Part of GitHub Enterprise.,Ruby,No tags provided
+aws-s3,https://github.com/github/aws-s3,Fork of AWS-S3 with some custom patches. Removes const_missing hacks like the jaf-s3 gem.,Ruby,No tags provided
+etcd-operator,https://github.com/github/etcd-operator,etcd operator creates/configures/manages etcd clusters atop Kubernetes,Go,No tags provided
+maven-plugins,https://github.com/github/maven-plugins,Official GitHub Maven Plugins,Java,No tags provided
+fog-aws,https://github.com/github/fog-aws,Module for the 'fog' gem to support Amazon Web Services http://aws.amazon.com/,Ruby,No tags provided
+develop.github.com,https://github.com/github/develop.github.com,Outdated documentation for GitHub API v2. See http://developer.github.com/ for the current API.,CSS,No tags provided
+node-slack-sdk,https://github.com/github/node-slack-sdk,Slack Developer Kit for Node.js,CoffeeScript,No tags provided
+puppet-ca_cert,https://github.com/github/puppet-ca_cert,A puppet module for managing (non-system) CA certificates.,Ruby,No tags provided
+sparkles-legacy,https://github.com/github/sparkles-legacy,A Go backend for giving each other ✨ in Slack,Go,No tags provided
+puppet-aptly,https://github.com/github/puppet-aptly,Puppet module for aptly,Ruby,No tags provided
+puppet-orchestrator-for-mysql,https://github.com/github/puppet-orchestrator-for-mysql,Puppet Module used with Orchestrator,Puppet,No tags provided
+rbenv-autohash,https://github.com/github/rbenv-autohash,Rubygems plugin to automatically run `rbenv rehash`.,Ruby,No tags provided
+puppet-sysfs,https://github.com/github/puppet-sysfs,Module to manage sysfs settings,Puppet,No tags provided
+go-mysql,https://github.com/github/go-mysql,a powerful mysql toolset with Go,Go,No tags provided
+elasticsearch-srv-discovery,https://github.com/github/elasticsearch-srv-discovery,Elasticsearch discovery with SRV records,Java,No tags provided
+codemirror-contrib,https://github.com/github/codemirror-contrib,CodeMirror community contributions,JavaScript,No tags provided
+task_list,https://github.com/github/task_list,GitHub flavor Markdown Task List feature components,CoffeeScript,No tags provided
+game-off-2012,https://github.com/github/game-off-2012,The GitHub Game Off 2012 is a game jam / hackathon / coding challenge to create an open source a web-based game,Not given,No tags provided
+cas-overlay,https://github.com/github/cas-overlay,Maven overlay for local CAS development and testing,Shell,No tags provided
+go-opstocat,https://github.com/github/go-opstocat,DEPRECATED,Go,No tags provided
+puppet-vault,https://github.com/github/puppet-vault,💾 📦 puppet-module to install Hashicorp's Vault.,Ruby,No tags provided
+mysql-haproxy-xinetd,https://github.com/github/mysql-haproxy-xinetd,"Context aware MySQL Replica pools via HAProxy, sample configs & scripts",Shell,No tags provided
+captain-hook,https://github.com/github/captain-hook,slack bot that provides subscription service for npm webhooks,JavaScript,No tags provided
+roskomnadzor,https://github.com/github/roskomnadzor,deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia,Not given,No tags provided
+ohnogit,https://github.com/github/ohnogit,For when you have to use git in nodejs.,TypeScript,No tags provided
+maturity-model,https://github.com/github/maturity-model,A maturity model for adopting open source,Not given,No tags provided
+mime-types,https://github.com/github/mime-types,Ruby MIME::Types implementation,Ruby,No tags provided
+force-pr,https://github.com/github/force-pr,Basic webserver that responds to webhooks with success,Ruby,No tags provided
+puppetlabs-puppetdb,https://github.com/github/puppetlabs-puppetdb,Centralized Puppet Storage,Clojure,No tags provided
+libgit2sharp,https://github.com/github/libgit2sharp,Git + .Net/Mono = ❤,C#,No tags provided
+facter,https://github.com/github/facter,Collect and display system facts,Ruby,No tags provided
+hr-opensource,https://github.com/github/hr-opensource,An open forum for anyone to discuss HR related topics & ideas,Not given,No tags provided
+kestrel,https://github.com/github/kestrel,"simple, distributed message queue system (inactive)",Scala,No tags provided
+brakeman,https://github.com/github/brakeman,A static analysis security vulnerability scanner for Ruby on Rails applications,Ruby,No tags provided
+winbootstrap,https://github.com/github/winbootstrap,No short description given,PowerShell,No tags provided
+Rebel,https://github.com/github/Rebel,Cocoa framework for improving AppKit,Objective-C,No tags provided
+html-pipeline,https://github.com/github/html-pipeline,HTML processing filters and utilities,Ruby,No tags provided
+lua-nginx-module,https://github.com/github/lua-nginx-module,Embed the Power of Lua into NGINX HTTP servers,C,No tags provided
+guard,https://github.com/github/guard,Guard is a command line tool to easily handle events on file system modifications.,Ruby,No tags provided
+evenflow,https://github.com/github/evenflow,sFlow to Graphite bridge,Ruby,No tags provided
+azure-quickstart-templates,https://github.com/github/azure-quickstart-templates,Azure Quickstart Templates,Shell,No tags provided
+swordfish,https://github.com/github/swordfish,EXPERIMENTAL password management app. Don't use this.,Ruby,No tags provided
+Archimedes,https://github.com/github/Archimedes,Geometry functions for Cocoa and Cocoa Touch,Objective-C,No tags provided
+kano-desktop,https://github.com/github/kano-desktop,No short description given,Shell,No tags provided
+octo-recipes,https://github.com/github/octo-recipes,A GitHub repository used to collaborate on recipes,Not given,No tags provided
+pong,https://github.com/github/pong,Auxiliary repository for external ping checks,Not given,No tags provided
+puppetlabs-puppet,https://github.com/github/puppetlabs-puppet,Server automation framework and application,Ruby,No tags provided
+zero_push,https://github.com/github/zero_push,Ruby wrapper for the ZeroPush API,Ruby,No tags provided
+twui,https://github.com/github/twui,A framework for developing interfaces on the Mac.,Objective-C,No tags provided
+rubycas-server,https://github.com/github/rubycas-server,"Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol.",Ruby,No tags provided
+posix-spawn,https://github.com/github/posix-spawn,Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces,Ruby,No tags provided
+jquery-relatize_date,https://github.com/github/jquery-relatize_date,jQuery version of technoweenie's relative date js library.,JavaScript,No tags provided
+learn.github.com,https://github.com/github/learn.github.com,The discovery gate for all things educational for Git and GitHub.,CSS,No tags provided
+media,https://github.com/github/media,Media files for use in your GitHub integration projects,Not given,No tags provided
+node-statsd,https://github.com/github/node-statsd,node.js client for Etsy'd StatsD server,JavaScript,No tags provided
+puppet-aptmirror,https://github.com/github/puppet-aptmirror,Mirror of Puppet's APT repo,Ruby,No tags provided
+taps,https://github.com/github/taps,simple database import/export app,Ruby,No tags provided
+ruby-thecodeshop,https://github.com/github/ruby-thecodeshop,The Ruby Programming Language,Ruby,No tags provided
+ssziparchive,https://github.com/github/ssziparchive,Utility class for zipping and unzipping files on iOS and Mac,C,No tags provided
+upload,https://github.com/github/upload,Script to upload files to non-repo storage from the command line,Ruby,No tags provided
+rack-statsd,https://github.com/github/rack-statsd,monitor your rack apps in production,Ruby,No tags provided
+enterprise-ohai,https://github.com/github/enterprise-ohai,Ohai plugins from GitHub Enterprise,Ruby,No tags provided
+pagerduty-incident-webhooks,https://github.com/github/pagerduty-incident-webhooks,Heroku app that fires webhooks for triggered PagerDuty incidents,Ruby,No tags provided
+RepoRepairTool,https://github.com/github/RepoRepairTool,Repairs common Windows repository problems with encodings or line endings,C#,No tags provided
+ghterm,https://github.com/github/ghterm,github terminal,JavaScript,No tags provided
+safegem,https://github.com/github/safegem,GitHub's safe gem eval web service,Ruby,No tags provided
+request_timer,https://github.com/github/request_timer,Simple Rails request timer with even simpler js bookmarklet.,Ruby,No tags provided
+gem-builder,https://github.com/github/gem-builder,The scripts used to build RubyGems on GitHub,Ruby,No tags provided
+will_paginate_with_hotkeys,https://github.com/github/will_paginate_with_hotkeys,Evil twin plugin version of will_paginate to work with jQuery hotkeys plugin.,Ruby,No tags provided
+jquery-hotkeys,https://github.com/github/jquery-hotkeys,jQuery hotkeys plugin.,JavaScript,No tags provided
+yard-sinatra,https://github.com/github/yard-sinatra,Display sinatra routes in yard documentation.,Ruby,No tags provided
+fog,https://github.com/github/fog,The Ruby cloud services library.,Ruby,No tags provided
+AFNetworking,https://github.com/github/AFNetworking,A delightful iOS and OS X networking framework,Objective-C,No tags provided
+ledbetter,https://github.com/github/ledbetter,Script that scrapes alert statistics from Nagios and reports them to Graphite,Ruby,No tags provided
+SharpDevelop,https://github.com/github/SharpDevelop,#develop (short for SharpDevelop) is a free IDE for .NET programming languages.,C#,No tags provided
+dat-science,https://github.com/github/dat-science,Replaced by https://github.com/github/scientist,Ruby,No tags provided
+Quick,https://github.com/github/Quick,A behavior-driven development test framework for Swift and Objective-C.,Swift,No tags provided
+expecta,https://github.com/github/expecta,A Matcher Framework for Objective-C/Cocoa,Objective-C,No tags provided
+Nimble,https://github.com/github/Nimble,A Matcher Framework for Swift and Objective-C,Swift,No tags provided
+OHHTTPStubs,https://github.com/github/OHHTTPStubs,A class to stub network requests easily: test your apps with fake network data (stubbed from file) and custom response time,Objective-C,No tags provided
+grocer,https://github.com/github/grocer,Pushing your Apple notifications since 2012.,Ruby,No tags provided
+aptly,https://github.com/github/aptly,aptly - Debian repository management tool,Go,No tags provided
+railsless-deploy,https://github.com/github/railsless-deploy,"Obsolete, see http://www.capistranorb.com/ for new Capistrano with no Railsisms!",Ruby,No tags provided
+circuitbreaker,https://github.com/github/circuitbreaker,Circuit Breakers in Go,Go,No tags provided
+nagioseasier-module,https://github.com/github/nagioseasier-module,"Make nagios easier to use, because you deserve it.",C,No tags provided
+GHKeyBrowser,https://github.com/github/GHKeyBrowser,GitHub Key Verification Helper,C++,No tags provided
+garethr-docker,https://github.com/github/garethr-docker,Puppet module for managing docker,Ruby,No tags provided
+STUtils,https://github.com/github/STUtils,No short description given,Objective-C,No tags provided
+veewee,https://github.com/github/veewee,Easing the building of vagrant boxes,Shell,No tags provided
+dat-analysis,https://github.com/github/dat-analysis,Analyze results from dat-science.,Ruby,No tags provided
+nagios-plugins-github,https://github.com/github/nagios-plugins-github,No short description given,C,No tags provided
+specta,https://github.com/github/specta,A light-weight TDD / BDD framework for Objective-C & Cocoa,Objective-C,No tags provided
+grit,https://github.com/github/grit,Grit gives you object oriented read/write access to Git repositories via Ruby.,Ruby,No tags provided
+foreman,https://github.com/github/foreman,Manage Procfile-based applications,Ruby,No tags provided
+git-msysgit,https://github.com/github/git-msysgit,GitHub version of msysgit/git,C,No tags provided
+training.github.com,https://github.com/github/training.github.com,Legacy (no longer published) GitHub Training site,CSS,No tags provided
+game-o,https://github.com/github/game-o,O! a Cut.js game,JavaScript,No tags provided
+gollum,https://github.com/github/gollum,Unsupported — use https://github.com/gollum/gollum!,Ruby,No tags provided
+MASPreferences,https://github.com/github/MASPreferences,Custom implementation of Preferences window in Cocoa applications for Mac OS X,Objective-C,No tags provided
+backstop,https://github.com/github/backstop,HTTP service for submitting metrics to Graphite,Ruby,No tags provided
+uiimage-from-animated-gif,https://github.com/github/uiimage-from-animated-gif,A UIImage category that loads animated GIFs,Objective-C,No tags provided
+hubahuba,https://github.com/github/hubahuba,Ruby and Rails core extensions used by GitHub.,Ruby,No tags provided
+teach.github.com,https://github.com/github/teach.github.com,The open source teaching materials site for Git and GitHub technologies,CSS,No tags provided
+gitcasts,https://github.com/github/gitcasts,Educational screencasts about Git,CSS,No tags provided
+htttee,https://github.com/github/htttee,unix's tee over http,Ruby,No tags provided
+marginalia,https://github.com/github/marginalia,Attach comments to ActiveRecord's SQL queries,Ruby,No tags provided
+buildstep,https://github.com/github/buildstep,Buildstep uses Docker and Buildpacks to build applications like Heroku,Shell,No tags provided
+django-floppyforms,https://github.com/github/django-floppyforms,Full control of form rendering in the templates.,Python,No tags provided
+rack-ssl-enforcer,https://github.com/github/rack-ssl-enforcer,A simple Rack middleware to enforce ssl connections,Ruby,No tags provided
+gitscm-old,https://github.com/github/gitscm-old,Git homepage that rocks - from the git.or.cz awesomeness,Ruby,No tags provided
+faceup,https://github.com/github/faceup,More than just mustaches.,JavaScript,No tags provided
+aroma,https://github.com/github/aroma,"a game engine: lua, opengl es 2.0, native client",C,No tags provided
+puppet-module-group,https://github.com/github/puppet-module-group,Puppet Group Module (custom group providers),Ruby,No tags provided
+windows-msysgit,https://github.com/github/windows-msysgit,This repository is deprecated.,Perl,No tags provided
+pycon2011,https://github.com/github/pycon2011,No short description given,Python,No tags provided
